@@ -1,0 +1,25 @@
+{
+  "name": "11-reading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "stop": "npx kill-port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMHaag/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMHaag/zookeepr/issues"
+  },
+  "homepage": "https://github.com/AMHaag/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
